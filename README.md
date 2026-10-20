@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabsdcm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=false" alt="GitHub stats for gabsdcm" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdcm&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/gabsdcm/gabsdcm/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/gabsdcm/gabsdcm/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" width="180" height="180" src="https://github.com/gabsdcm.png" alt="Goiaba profile illustration" />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo0azd0N3JjZ2VpYzRmeTQ3M2xzZXE2b2c5cWZsZ3ByaThuemo1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lWNEETslOq2JdQAbae/giphy.gif" alt="Goiaba profile illustration" />
 
 ###
 
@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsdcm&theme=dracula&bg_color=0d1117&color=58a6ff&line=7ee787&point=58a6ff&area=true&hide_border=true" alt="Contribution activity graph for gabsdcm" />
+<img src="https://raw.githubusercontent.com/gabsdcm/gabsdcm/snake-output/snake.svg" alt="Snake animation" />
 
 ###
